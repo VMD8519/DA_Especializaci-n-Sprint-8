@@ -3,6 +3,7 @@
 
 ## 📖 Descripción
 Este proyecto explora el uso de herramientas avanzadas de visualización en Python para interpretar y presentar datos de manera efectiva. Se aprovechan las capacidades analíticas de Python para generar visualizaciones personalizadas con las bibliotecas Seaborn y Matplotlib, que posteriormente se integrarán en un informe de Power BI.
+Se realiza una conexión con MySQL para obtener los datos de la base de datos, luego se trabaja en Python para generar las visualizaciones y, finalmente, se conecta Python a Power BI para integrar y presentar la información de manera efectiva.
 El objetivo principal es mejorar las habilidades analíticas y técnicas mediante la combinación de Python y Power BI, permitiendo una comprensión más profunda de la capacidad del lenguaje de programación dentro de la herramienta de visualización.
 
 ## 🎯 Objetivo
@@ -12,8 +13,9 @@ El objetivo principal es mejorar las habilidades analíticas y técnicas mediant
 - Mejorar la interpretación de los datos mediante visualizaciones interactivas y dinámicas.
 
 ## 🛠️ Tecnologías utilizadas
-  - Power BI
-  - Python
-  - Seaborn
-  - Matplotlib
-  - Pandas
+- Power BI 📊
+- Python 🐍
+- Seaborn 🎨
+- Matplotlib 📈
+- Pandas 🗂️
+- MySQL 🛢️
