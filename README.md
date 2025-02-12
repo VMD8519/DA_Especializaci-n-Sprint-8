@@ -1,5 +1,5 @@
-# Integración de Python con Power BI para Visualización de Datos
-🚀 Python 🐍 + Power BI 📊 = Visualización de Datos 🔍
+# Integración de Python con Power BI para Visualización de Datos 🚀 Python 🐍 + Power BI 📊 = Visualización de Datos 🔍
+
 
 ## 📖 Descripción
 Este proyecto explora el uso de herramientas avanzadas de visualización en Python para interpretar y presentar datos de manera efectiva. Se aprovechan las capacidades analíticas de Python para generar visualizaciones personalizadas con las bibliotecas Seaborn y Matplotlib, que posteriormente se integrarán en un informe de Power BI.
